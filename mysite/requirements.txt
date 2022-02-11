@@ -220,7 +220,7 @@ termcolor==1.1.0
 tornado==4.5.2
 traitlets==4.3.2
 tweepy==3.5.0
-Twisted==16.6.0
+Twisted==22.1.0
 typing==3.6.2
 tzlocal==1.4
 ua-parser==0.3.6
